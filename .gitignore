@@ -88,6 +88,19 @@ config.cfg
 /sp/src/materialsystem/*.pdb
 /sp/src/vgui2/*.dll
 /sp/src/vgui2/*.pdb
-
+/sp/src/utils/*/Release
+/sp/src/utils/*/Debug
 # Build support files
 /sp/src/devtools/gcc9+support.o
+/sp/game/bin
+/sp/src/materialsystem/stdshaders/Release_dx9_mod_episodic
+/sp/src/materialsystem/stdshaders/Release_dx9_mod_hl2
+/sp/src/lib/public/fgdlib.lib
+/sp/src/lib/public/mathlib.lib
+/sp/src/lib/public/raytrace.lib
+/sp/src/lib/public/tier1.lib
+/sp/src/lib/public/vgui_controls.lib
+/sp/src/responserules/runtime/Release
+/sp/game/mod_episodic/bin
+/sp/game/mod_hl2/bin
+/sp/src/vgui2/vgui_controls/Release
